@@ -5,9 +5,11 @@ public class Memoria {
     public static void main(String[] args) {
         Memoria.create();
 
+        System.out.println();
+
         String explain = "Ao final do passo 4, mesmo tendo sido adicionado ao HashSet 4 objetos iguais da classe Pessoa, " +
-                "oque foi impresso no console, foi apenas um unico registro, por ter sido utilziados o Override em equals e hashCode, garantindo a comparação" +
-                "correta do Objeto Pessoa, se estes dois metodos não forem implementados, a comporação falhara, e sera impresso 4 registros";
+                "oque foi impresso no console, foi apenas um unico registro, por ter sido ultilizado o Override em equals e hashCode, garantindo a comparação " +
+                "correta do Objeto Pessoa, se estes dois metodos não forem implementados, a comparação falhara, e sera impresso 4 registros.";
 
         System.out.println(explain);
     }
