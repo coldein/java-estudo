@@ -1,0 +1,9 @@
+package loja;
+
+public class Tablet extends Produto {
+	
+	public Tablet() {
+		super("Tablet", 2200);
+	}
+
+}
