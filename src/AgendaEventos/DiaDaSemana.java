@@ -1,4 +1,4 @@
-package AgendaEventos;
+package agendaEventos;
 
 public enum DiaDaSemana {
     SEGUNDA,
