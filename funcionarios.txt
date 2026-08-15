@@ -1,0 +1,5 @@
+1;Marcos Victor;Desenvolvedor;5000.00
+2;Joao Silva;Analista;4200.00
+3;Maria Santos;Gerente;6500.00
+4;Pedro Oliveira;Assistente;2800.00
+5;Ana Costa;Coordenadora;5500.00
